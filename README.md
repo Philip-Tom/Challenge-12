@@ -17,12 +17,12 @@ To set up and run the application, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/employee-tracker.git
+   git clone https://github.com/Philip-Tom/Challenge-12.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd employee-tracker
+   cd Challenge-12
    ```
 3. **Install Dependencies:**
 
@@ -36,7 +36,6 @@ To set up and run the application, follow these steps:
      DB_HOST=your_database_host
      DB_USER=your_database_user
      DB_PASSWORD=your_database_password
-     DB_NAME=employee_tracker_db
      ```
    - Run the database seed script:
      ```bash
