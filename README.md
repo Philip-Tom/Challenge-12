@@ -87,4 +87,6 @@ npm start
 
 ## WalkthroughVideo
 
-<video controls src="demo/demo.mp4" title="Demo Video"></video>
+https://github.com/Philip-Tom/Challenge-12/assets/147503829/c8459d59-b8a3-4925-9589-b941d4dc5678
+
+
